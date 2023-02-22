@@ -29,3 +29,10 @@
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
+
+## 파이널 프로젝트
+링크: https://github.com/25252255/GDJ56_BOB_final
+
+## 세미 프로젝트
+링크: https://github.com/thereisri/GDJ56_SMTW_semi
+
