@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/SQL-C74634?style=flat-square&logo=SQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle SQL-C74634?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-38759F?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 <br>
 
