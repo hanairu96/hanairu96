@@ -13,6 +13,8 @@
 <br>
 <img src="https://img.shields.io/badge/Oracle SQL-C74634?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-38759F?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-38759F?style=flat-square&logo=MariaDB&logoColor=white"/>
+
 </div>
 <br>
 
